@@ -1,1 +1,1 @@
-# pdp-Logico
+# Paradigmas de Programacion-Logico
